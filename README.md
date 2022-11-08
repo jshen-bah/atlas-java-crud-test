@@ -17,6 +17,6 @@ This Apache Atlas CRUD application helps in building your own Java APIs to inter
 
   To create new Entites within registered Types in Atlas, use the main class com.knoldus.example.AtlasEnitiyExample
 
-  mvn exec:java -Dexec.mainClass="com.knoldus.example.AtlasEnitiyExample"
+  mvn exec:java -Dexec.mainClass="com.knoldus.example.AtlasEntityExample"
 
 
